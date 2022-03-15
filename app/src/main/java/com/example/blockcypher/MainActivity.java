@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         lnk.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                gotoUrl("https://eb09-checklist.netlify.app/");
+                gotoUrl("https://54.79.17.58:443");
             }
         });
     }
